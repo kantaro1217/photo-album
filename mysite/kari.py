@@ -6,3 +6,4 @@ third day
 forth day
 fifth
 six
+a week
